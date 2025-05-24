@@ -3,7 +3,7 @@ import code from '../assets/anna.jpg';
 import code1 from '../assets/votingscreen.jpg';
 import code2 from '../assets/bg_1.jpg';
 import code3 from '../assets/ecom2.avif';
-import code4 from '../assets/anna.jpg';
+import code4 from '../assets/cpms.jpg';
 import code5 from '../assets/anna.jpg';
 
 const Works = () => {
@@ -122,16 +122,16 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                College ERP
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center'>A ERP web application built with React and Mongodb</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://collegerp.netlify.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/thunderbolt-25/cpms'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
