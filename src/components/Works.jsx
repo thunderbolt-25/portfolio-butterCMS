@@ -3,7 +3,7 @@ import code from '../assets/anna.jpg';
 import code1 from '../assets/votingscreen.jpg';
 import code2 from '../assets/bg_1.jpg';
 import code3 from '../assets/ecom2.avif';
-import code4 from '../assets/cpms.jpg';
+import code4 from '../assets/cpms.png';
 import code5 from '../assets/anna.jpg';
 
 const Works = () => {
